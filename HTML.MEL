@@ -1,0 +1,27 @@
+# HTML-INICIANTE
+Código básico para treino para iniciantes para abrir via extensão do google pelo visual Studio code.
+<html>
+     <head>
+
+      <title> ola sou mel plens 
+
+      </title>
+       <style> 
+           body{
+
+         background-color:#c762a9;
+           }
+         
+         </style>
+        
+        </head>
+
+        <body>  
+        <h1> ola sou mel   </h1>
+    
+
+     </body>
+
+
+</html>
+
